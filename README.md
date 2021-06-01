@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Selene!<img width="10%" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"></h1>
 
-<h2 align="start">
+![Hi](https://github.com/selebruno/selebruno/blob/main/hi!%20i%C2%B4m%20sele.gif)
+
+
+<h2 align="center">
 I´m a Full Stack Developer :computer: 
 </h2>
 
@@ -29,16 +31,19 @@ I´m a Full Stack Developer :computer:
 
 ## :arrow_right: My proyects
 
-<p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
+
+<h3> Henry Food </h3>
+<p> 
+  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-20%20Henry%20Food.png"></a>
+  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-35%20Henry%20Food.png"></a>
+  <a><img width="70%" src2="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-46-20%20Henry%20Food.png"></a>
+  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-46-37%20Henry%20Food.png"></a>
+  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-47-02%20Henry%20Food.png"></a>
 </p>
-<p>
-  <a><img src=""></a>
-  <a><img src=""></a>
-  <a><img src=""></a>
-</p>
+
+<h3> Weather App </h3>
+ <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-05-31%20at%2017-48-47%20Weather%20App.png"></a>
+
 
 
 &nbsp;
