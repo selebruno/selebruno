@@ -34,7 +34,7 @@ I´m a Full Stack Developer :computer:
 ## :arrow_right: My proyects
 
 
-<h3> Henry Food </h3>
+<h3> Henry Food </h3> <a href="https://github.com/selebruno/henry-food" target="_blank">Check code</a>
 <p> 
   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-20%20Henry%20Food.png"></a>
   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-35%20Henry%20Food.png"></a>
@@ -44,12 +44,13 @@ I´m a Full Stack Developer :computer:
   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-47-02%20Henry%20Food.png"></a>
 </p>
 
-<h3> Movies App </h3>
+
+<h3> Movies App </h3> <a href="https://github.com/selebruno/Movies-app" target="_blank">Check code</a>
 <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-23-41%20React%20App.png"></a>
   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-24-28%20React%20App.png"></a>
    <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-43%20React%20App.png"></a>
   <a><img width="70%" src2="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-52%20React%20App.png"></a>
- <a href="https://github.com/selebruno/Movies-app" target="_blank">Check code</a>
+
 
 
   
