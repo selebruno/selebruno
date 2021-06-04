@@ -1,5 +1,5 @@
 
-![Hi](https://github.com/selebruno/selebruno/blob/main/hi!%20i%C2%B4m%20sele.gif)
+![Hi! I'm Sele!](https://github.com/selebruno/selebruno/blob/main/hi!%20i%C2%B4m%20sele.gif)
 
 
 <h2 align="center">
@@ -44,6 +44,15 @@ I´m a Full Stack Developer :computer:
   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-47-02%20Henry%20Food.png"></a>
 </p>
 
+<h3> Movies App </h3>
+<a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-23-41%20React%20App.png"></a>
+  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-24-28%20React%20App.png"></a>
+   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-43%20React%20App.png"></a>
+  <a><img width="70%" src2="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-52%20React%20App.png"></a>
+ <a href="https://github.com/selebruno/Movies-app" target="_blank">Check code</a>
+
+
+  
 <h3> Weather App </h3>
  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-05-31%20at%2017-48-47%20Weather%20App.png"></a>
 
