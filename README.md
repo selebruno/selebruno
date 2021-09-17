@@ -27,6 +27,9 @@ I´m a Full Stack Developer :computer:
   <code><img width="15%" heigth="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
   <code><img width="15%" heigth="100px" src="https://dineroclub.net/wp-content/uploads/2021/02/REDUX.png"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
+  <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
+  <code><img width="15%" heigth="100px" src="https://cloudhedge.io/wp-content/uploads/2017/11/aws.png"></code>
+    
     <br />
   <code><img width="15%"heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
@@ -34,6 +37,8 @@ I´m a Full Stack Developer :computer:
   <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
   <code><img  width="15%"  heigth="100px" src="https://i.imgur.com/DRUiMyM.png"></code>
   <code><img  width="15%"  heigth="100px" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png"></code>
+  <code><img  width="15%"  heigth="100px" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TypeScript_Logo_%28Blue%29.svg/1280px-TypeScript_Logo_%28Blue%29.svg.png"></code>
+   
   <br />
   <br />
 </p>
@@ -41,6 +46,9 @@ I´m a Full Stack Developer :computer:
 &nbsp;
 
 ## :arrow_right: My proyects
+
+<h3> YoAgrónomo </h3> <a href="https://github.com/selebruno/henry-food" target="_blank">Check code</a>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=S_I5jHy_bQo)
 
 
 <h3> Henry Food </h3> <a href="https://github.com/selebruno/henry-food" target="_blank">Check code</a>
