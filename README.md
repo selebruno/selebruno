@@ -44,44 +44,7 @@ I´m a Full Stack Developer :computer:
 
 &nbsp;
 
-## :arrow_right: My proyects
 
-<h3>YoAgrónomo</h3> 
-
-
-[![YoAgronomo](https://res.cloudinary.com/dbduj98i3/image/upload/v1631888724/Captura_de_pantalla_2021-07-09_132105_lvnddm.png)](https://www.youtube.com/watch?v=S_I5jHy_bQo "YoAgrónomo")
-
-
-
-
-
-
-<h3> Henry Food </h3> <a href="https://github.com/selebruno/henry-food" target="_blank">Check code</a>
-<p> 
-  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-20%20Henry%20Food.png"></a>
-  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-45-35%20Henry%20Food.png"></a>
-   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-46-20%20Henry%20Food.png"></a>
-  <a><img width="70%" src2="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-46-20%20Henry%20Food.png"></a>
-  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-46-37%20Henry%20Food.png"></a>
-  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-01%20at%2011-47-02%20Henry%20Food.png"></a>
-</p>
-
-
-<h3> Movies App </h3> <a href="https://github.com/selebruno/Movies-app" target="_blank">Check code</a>
-<a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-23-41%20React%20App.png"></a>
-  <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-24-28%20React%20App.png"></a>
-   <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-43%20React%20App.png"></a>
-  <a><img width="70%" src2="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-06-04%20at%2012-25-52%20React%20App.png"></a>
-
-
-
-  
-<h3> Weather App </h3>
- <a><img width="70%" src="https://github.com/selebruno/selebruno/blob/main/Screenshot%202021-05-31%20at%2017-48-47%20Weather%20App.png"></a>
-
-
-
-&nbsp;
 
 ## :arrow_right: Contact me:
 <span >
